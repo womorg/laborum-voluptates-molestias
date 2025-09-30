@@ -1,10 +1,10 @@
 {
   "name": "@womorg/laborum-voluptates-molestias",
-  "version": "14.32.340",
+  "version": "14.32.341",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/accusantium-commodi-officia": "^1.0.0",
